@@ -100,7 +100,6 @@ public class UserInputMenu {
 		words.createSpecialWords();
 	}
 		
-
 	
 
 }
